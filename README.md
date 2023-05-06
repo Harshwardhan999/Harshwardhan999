@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshwardhan999
 - 👀 I’m interested in Programming and Web Development
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 Tech Stack- C++, JAVA, SQL
 - 💞️ I’m looking to collaborate on interesting projects on Web Development and Software engineering
 - 📫 How to reach me - harshwardhanchaube@gmail.com
 
